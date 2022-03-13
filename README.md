@@ -25,4 +25,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='twitter_demo.gif' title='Video Walkthrough' width='248' height = '500' alt='Video Walkthrough' />
+<img src='twitter-clone.gif' title='Video Walkthrough' width='248' height = '500' alt='Video Walkthrough' />
