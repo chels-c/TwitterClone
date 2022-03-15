@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='twitterpart2.gif' title='Video Walkthrough' width='248', height = '500' alt='Video Walkthrough' /> 
+<img src='twitterpart2.gif' title='Video Walkthrough' width='248' height = '500' alt='Video Walkthrough' /> 
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
